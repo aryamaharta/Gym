@@ -1,0 +1,32 @@
+C:\Users\Arya Maharta\Documents\Gym\Gym\bin\Debug\Gym.exe.config
+C:\Users\Arya Maharta\Documents\Gym\Gym\bin\Debug\Gym.exe
+C:\Users\Arya Maharta\Documents\Gym\Gym\bin\Debug\Gym.pdb
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.Form1.resources
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.FormMain.resources
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.exe
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.pdb
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.Registrasi.resources
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.Pembayaran.resources
+C:\Users\Arya Maharta\Documents\Gym\Gym\obj\Debug\Gym.Renewal.resources
+E:\Kuliaaraah\Gym\Gym\bin\Debug\Gym.exe.config
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.exe
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.pdb
+E:\Kuliaaraah\Gym\Gym\bin\Debug\Gym.exe
+E:\Kuliaaraah\Gym\Gym\bin\Debug\Gym.pdb
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.Form1.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.FormMain.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.Pembayaran.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.Registrasi.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.Renewal.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.MasterPaket.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.ReportAbsensi.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.ReportPemasukan.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.FormCuti.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.FormAbsen.resources
+E:\Kuliaaraah\Gym\Gym\obj\Debug\Gym.FormReportPemasukan.resources
